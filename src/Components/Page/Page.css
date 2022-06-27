@@ -1,0 +1,8 @@
+.img {
+    width: 500px;
+}
+
+.btn-outline-danger {
+    position: absolute;
+    top: 20px;right: 20px;
+}
